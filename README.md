@@ -12,10 +12,20 @@
 
 ### 📊 Estatísticas do GitHub
 
-[![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carladayane-et&show_icons=true&theme=dracula)](https://github.com/Carladayane-et)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carladayane-et&layout=compact&theme=dracula)](https://github.com/Carladayane-et)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Carladayane-et&theme=dracula)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+<a href="https://github.com/Carladayane-et" style="margin-right: 15px;">
+<img src="https://github-readme-stats.vercel.app/api?username=Carladayane-et&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/Carladayane-et">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carladayane-et&layout=compact&theme=dracula" />
+</a>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Carladayane-et&theme=dracula">
+</div>
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -32,7 +42,7 @@
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-dayane-596460344/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-dayane-596460344/) 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carladayane856@gmail.com)
 [![Currículo Lattes](https://img.shields.io/badge/-Currículo%20Lattes-darkblue)](https://lattes.cnpq.br/3209551858386988)
 [![TikTok](https://img.shields.io/badge/-TikTok-%23000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mecatronicgirls)
