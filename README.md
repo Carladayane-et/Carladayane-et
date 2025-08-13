@@ -1,9 +1,12 @@
-### 👋 Olá! Eu sou a Carla Dayane
+## 👋 Olá! Eu sou a Carla Dayane
 
-🎓 Estudante de **Engenharia Mecatrônica** pela UFRN
-⚙️ **Técnica em Mecatrônica** pelo IFRN
-💻 Apaixonada por **sistemas embarcados, IoT e automação**
-🚀 Atualmente participando da **residência tecnológica EmbarcaTech**
+🎓 Estudante de **Engenharia Mecatrônica** pela UFRN  
+
+⚙️ **Técnica em Mecatrônica** pelo IFRN  
+
+💻 Apaixonado por sistemas embarcados, IoT e automação  
+
+🚀 Atualmente participando da residência tecnológica **EmbarcaTech**  
 
 ---
 
@@ -17,11 +20,12 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img alt="Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<br><br>
 
 ---
 
