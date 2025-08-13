@@ -8,23 +8,6 @@
 
 🚀 Atualmente participando da residência tecnológica **EmbarcaTech**  
 
----
-
-### 📊 Estatísticas do GitHub
-
-
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-<a href="https://github.com/Carladayane-et" style="margin-right: 15px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Carladayane-et&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/Carladayane-et">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carladayane-et&layout=compact&theme=dracula" />
-</a>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Carladayane-et&theme=dracula">
-</div>
 
 ---
 
