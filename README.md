@@ -4,7 +4,7 @@
 
 ⚙️ **Técnica em Mecatrônica** pelo IFRN  
 
-💻 Apaixonada por sistemas embarcados, IoT e automação  
+💻 Apaixonada por sistemas embarcados, IoT, Robótica, IA e automação  
 
 🚀 Atualmente participando da residência tecnológica **EmbarcaTech**  
 
